@@ -55,6 +55,7 @@ Imagens Exemplos:
 
 * O Desafio deverá ser colocado em um repositorio no GitHub do candidato.
 * O Projeto deve conter um README, onde vai ser posto a documentação do projeto contendo as instruções para executar o sistema.
+* Dica - Utilize o MongoDB Atlas
 
 <img src="https://media2.giphy.com/media/3oeSAz6FqXCKuNFX6o/giphy.gif?cid=ecf05e471f592hy7w4d5ybhhguoxb4g2iaxhz1vyo8p6qvzx&rid=giphy.gif&ct=g">
 
